@@ -8,7 +8,7 @@ I build intelligent systems that automate complex, real-world workflows — comb
 
 ## What I Build
 
-**Auto-Research** *(in progress)* *(production level)* 
+**Auto-Research** *(in progress)*
 
 Autonomous research assistant that takes a topic, crawls relevant papers, retrieves and filters content, and returns structured references — no manual search required.  
 `Python` `Async/Await` `LLM APIs` `Web Crawling`  
